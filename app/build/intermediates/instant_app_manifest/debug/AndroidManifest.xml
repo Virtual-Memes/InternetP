@@ -17,6 +17,7 @@
         android:label="百味食讯"
         android:roundIcon="@mipmap/eat_round"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.example.internetp.MainActivity" >
             <intent-filter>
